@@ -148,3 +148,11 @@ public class Test {
 ![image](https://github.com/daladida/Java-Experiment3/blob/main/images/%E5%AE%9E%E9%AA%8C%EF%BC%88%E4%B8%89%EF%BC%89%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C-1.png)
 ![image](https://github.com/daladida/Java-Experiment3/blob/main/images/%E5%AE%9E%E9%AA%8C%EF%BC%88%E4%B8%89%EF%BC%89%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C-1.png)
 ## 实验感想
+* 这次实验的丰富性与新颖性是别于前两次实验给我的最大感触。通过这次编程，让我清楚也更加深刻的了解和认识到JAVA语言的独特魅力，它虽没有C++的多继承，但更加便捷灵活的接口，与面向对象的异常处理机制，使得我们的程序实现更加快速高效。而且，这次实验实现了Scanner类的交互性输入，让程序设计和运行更加仿真、实用。回顾上节内容，我们学习了静态方法与final关键字的用法，还认识了抽象类、接口的使用和程序的异常处理：  
+	 * 静态方法：类的静态方法只能访问其他的静态成员；静态方法没有this；静态方法不能被覆盖为非静态方法；  
+	 * final修饰的类、方法、变量不能被改变，其声明的类不能被继承；  
+	 * abstract修饰的类不能被实例化；其修饰的方法没有函数体；也必须在子类中给出具体实现；  
+	 * interface不能有任何具体的方法，其中的方法没有“前缀”也是public static final类型的；且一个接口允许一个类从几个接口继承而来；  
+	 * Java语言按照错误严重性，从throwale根类衍生出Error和Exception两大派系的异常分类；EXCEPTION（异常）按照性质，又分为编译异常（IOException）和运行时异常（RuntimeException）。一般的处理机制是try-catch-finally捕获和处理异常机制；  
+以上所述被称为JAVA类的高级特性。
+	 
