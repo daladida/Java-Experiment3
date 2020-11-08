@@ -154,5 +154,5 @@ public class Test {
 	 * abstract修饰的类不能被实例化；其修饰的方法没有函数体；也必须在子类中给出具体实现；  
 	 * interface不能有任何具体的方法，其中的方法没有“前缀”也是public static final类型的；且一个接口允许一个类从几个接口继承而来；  
 	 * Java语言按照错误严重性，从throwale根类衍生出Error和Exception两大派系的异常分类；EXCEPTION（异常）按照性质，又分为编译异常（IOException）和运行时异常（RuntimeException）。一般的处理机制是try-catch-finally捕获和处理异常机制；  
-以上所述被称为JAVA类的高级特性。
+		* 以上所述被称为JAVA类的高级特性。
 	 
